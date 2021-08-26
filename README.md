@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ricky noviansyah, im a responsible and receptive student who seek position in Data Analyst and Cloud Solution, creating insights through data analysis using Google Cloud Platform. Currently learning data, cloud and random stuff
+My name is Ricky noviansyah, im a responsible and receptive student who seek position in Data Analyst and Cloud Solution, creating insights through data analysis using Google Cloud Platform. Currently learning data, cloud and random stuff and develop website powerfull and fast using Jamstack Technologies
 
 ![GitHub Follow](https://img.shields.io/github/followers/codericky.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/codericky?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
