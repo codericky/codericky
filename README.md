@@ -10,7 +10,7 @@ My name is Ricky noviansyah, im a responsible and receptive student who seek pos
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/codericky) 
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/elmoallistair) 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rickynoviansyah)
-[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.elmoallistair@gmail.com)
+[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.rickynoviansyah@gmail.com)
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=twitter&style=social)](https://twitter.com/rickybrainware)
 
 
