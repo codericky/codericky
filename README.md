@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ricky noviansyah, im a responsible and receptive student who seek position in Data Analyst and Cloud Solution, creating insights through data analysis using Google Cloud Platform. Currently learning data, cloud and random stuff and develop website powerfull and fast using Jamstack Technologies
+### Introduce my name is ricky noviansyah, I am a person who has a passion for learning and sharing knowledge with others, I have expertise such as programming, seo, linux server, networking, and also digital marketing, etc.
 
 ![GitHub Follow](https://img.shields.io/github/followers/codericky.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/codericky?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
@@ -8,7 +8,7 @@ My name is Ricky noviansyah, im a responsible and receptive student who seek pos
 📫 How to reach me
 
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/codericky) 
-[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/elmoallistair) 
+[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/rickybrainware) 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rickynoviansyah)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.rickynoviansyah@gmail.com)
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=twitter&style=social)](https://twitter.com/rickybrainware)
@@ -22,7 +22,7 @@ My name is Ricky noviansyah, im a responsible and receptive student who seek pos
 👨‍💻 My other profiles
 
 [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/elmoallistair)
-[![Codewars](https://img.shields.io/badge/--dev?label=Codewars&logo=codewars&style=social)](https://www.codewars.com/users/elmoallistair)
+[![Codewars](https://img.shields.io/badge/--dev?label=Codewars&logo=codewars&style=social)](https://www.codewars.com/users/codericky)
 [![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/2d7d54b5646fe8547a05a04b5bdbcafd)
 [![Qwiklabs](https://img.shields.io/badge/--dev?label=Qwiklabs&logo=qwiklabs&style=social)](https://www.qwiklabs.com/public_profiles/3ebcb671-731f-41b0-8145-6da558567d68)
 
