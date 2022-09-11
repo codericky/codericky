@@ -13,12 +13,6 @@
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.rickynoviansyah@gmail.com)
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=twitter&style=social)](https://twitter.com/rickybrainware)
 
-
-🔽 My wallet <br />
-**Bitcoin** : 12yo98FAbBLZCThdT5nTD89odAJyyq7xNF <br />
-**Ethereum** : 0x8863a164baf5433c7658483958ae9ba504078de0 <br />
-**Paypal** : thevenom425@gmail.com <br />
-
 👨‍💻 My other profiles
 
 [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/elmoallistair)
